@@ -1,5 +1,5 @@
 import unittest
-from math import *
+from mathtest import add, minus
 
 
 class TestMathFunc(unittest.TestCase):
